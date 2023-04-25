@@ -1,0 +1,15 @@
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.myfontcolor {
+    color: black;
+}
+.myfonttype {
+    font-family: 'Times New Roman', Times, serif;
+}
+.myfontsize {
+    font-size: medium;
+}
